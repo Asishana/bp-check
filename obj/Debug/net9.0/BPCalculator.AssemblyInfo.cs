@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BPCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a1e9a8e691d9539a53ccfa23fe23946cc13cf93")]
 [assembly: System.Reflection.AssemblyProductAttribute("BPCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BPCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
