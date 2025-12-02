@@ -4,7 +4,7 @@ on:
   push:
     branches: [ master, staging, develop ]
   pull_request:
-    branches: [ develop ]
+    branches: [ master ]
 
 env:
   DOTNET_VERSION: '9.0.x'
